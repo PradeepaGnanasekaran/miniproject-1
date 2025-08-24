@@ -51,3 +51,5 @@ The system allows users to navigate the wheelchair via an Android application, e
 
 ## 👤 Author
 **Pradeepa Gnanasakaran**  
+**Vaileti Aditya**
+**Vaishnavi.k**
